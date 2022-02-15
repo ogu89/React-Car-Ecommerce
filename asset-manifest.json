@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5740cf87.css",
-    "main.js": "/static/js/main.8ccedc14.js",
-    "static/js/787.0737afab.chunk.js": "/static/js/787.0737afab.chunk.js",
-    "index.html": "/index.html",
-    "main.5740cf87.css.map": "/static/css/main.5740cf87.css.map",
-    "main.8ccedc14.js.map": "/static/js/main.8ccedc14.js.map",
-    "787.0737afab.chunk.js.map": "/static/js/787.0737afab.chunk.js.map"
+    "main.css": "/React-Car-Ecommerce/static/css/main.5740cf87.css",
+    "main.js": "/React-Car-Ecommerce/static/js/main.000393b4.js",
+    "static/js/787.0737afab.chunk.js": "/React-Car-Ecommerce/static/js/787.0737afab.chunk.js",
+    "index.html": "/React-Car-Ecommerce/index.html",
+    "main.5740cf87.css.map": "/React-Car-Ecommerce/static/css/main.5740cf87.css.map",
+    "main.000393b4.js.map": "/React-Car-Ecommerce/static/js/main.000393b4.js.map",
+    "787.0737afab.chunk.js.map": "/React-Car-Ecommerce/static/js/787.0737afab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5740cf87.css",
-    "static/js/main.8ccedc14.js"
+    "static/js/main.000393b4.js"
   ]
 }
